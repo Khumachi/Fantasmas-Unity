@@ -1,3 +1,5 @@
+// hace el proceso CREATE de UNITY con MYSQL
+// Crea la tabla si no existe y ingresa los datos en las columnas de esta
 using UnityEngine;
 using UnityEngine.UI;
 using MySql.Data.MySqlClient;
