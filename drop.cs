@@ -1,3 +1,6 @@
+// hace la operacion DELETE en UNITY con MYSQL
+//Borra todos los datos de la tabla y muestra el resultado en el canvas de UNITY
+
 using UnityEngine;
 using UnityEngine.UI;
 using MySql.Data.MySqlClient;
