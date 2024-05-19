@@ -1,3 +1,6 @@
+//Realiza la operación UPDATE de UNITY con MYSQL
+// Actualiza el score del jugador segun el nombre ingresado
+
 using UnityEngine;
 using UnityEngine.UI;
 using MySql.Data.MySqlClient;
