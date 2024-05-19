@@ -1,3 +1,5 @@
+// Controla los sonidos de los botones en el proyecto
+
 using UnityEngine;
 using UnityEngine.UI;
 
