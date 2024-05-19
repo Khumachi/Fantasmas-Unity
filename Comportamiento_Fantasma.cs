@@ -1,3 +1,5 @@
+//En este script se controlan las animaciones de todos los fantasmas
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
