@@ -1,3 +1,5 @@
+//Logica del cambio de escena para botones de unity
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
