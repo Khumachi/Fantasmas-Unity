@@ -1,3 +1,7 @@
+// Timer de tiempo
+//Contabiliza los segundos en la escena para guardar los datos en este tiempo
+//Cuando termina cambia a la escena guardar
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
