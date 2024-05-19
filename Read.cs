@@ -1,3 +1,6 @@
+// Se controla el proceso de READ con la base de datos de MYSQL a UNITY
+// y se muestran los datos en el canvas de  la escena de UNITY
+
 using UnityEngine;
 using UnityEngine.UI;
 using MySql.Data.MySqlClient;
