@@ -1,3 +1,5 @@
+//En este codigo se controla tanto el martillo como la sumatoria de puntos por medio de la activación 
+// de las particulas en unity
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
