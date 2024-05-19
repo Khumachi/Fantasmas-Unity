@@ -1,3 +1,5 @@
+//En este codigo se controlan las posiciones aleatorias de todos los fantasmas
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
